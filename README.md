@@ -51,7 +51,7 @@ cd XiaoLianPlus
  
 ## 开源许可
  
-本项目遵循 GNU General Public License v3.0 (GPL-3.0) 开源
+本项目遵循 [GNU General Public License v3.0 (GPL-3.0)](https://github.com/yilink1/XiaoLianPlus/blob/main/LICENSE) 开源
  
 ***
  
