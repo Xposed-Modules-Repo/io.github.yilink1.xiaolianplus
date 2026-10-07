@@ -1,4 +1,4 @@
-# 笑联Plus (XiaoLianPlus)
+# 笑联Plus
  
 智慧笑联（`com.xiaolian.prometheus`）体验增强 Xposed 模块，基于 LibXposed (API 102) 开发。
  
